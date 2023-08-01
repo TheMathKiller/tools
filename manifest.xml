@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="Ckmat"
+           fetch="git@github.com:TheMathKiller/mat_home.git"/>
+  <default revision="master"
+           remote="Ckmat"
+           sync-j="1" />
+  <project path="packages" name="Ckmat" />
+</manifest>
