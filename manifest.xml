@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="Ckmat"
-           fetch="git@github.com:TheMathKiller/mat_home.git"/>
-  <default revision="master"
-           remote="Ckmat"
-           sync-j="1" />
-  <project path="packages" name="Ckmat" />
+
+    <remote name="origin" fetch="git@github.com:TheMathKiller/" />  
+    <default revision="master" remote="origin" />
+    <project name="mat_home" path="pakages/mat_home" />
+    <project name="KTool" path="pakages/KTool" />
+    <project revision="space_audio_left_right_pair" name="CkAlgWorkspace" path="pakages/CkAlgWorkspace" />
 </manifest>
