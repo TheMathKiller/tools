@@ -1,0 +1,14 @@
+[setting]
+autoDownload=1
+resetSystemAfterDownload=1
+downloadFile=E:\sdks\sltk\fuck\build\out\sl.up
+clkDiv=0
+lineMode=0
+chipSelIndirect=0
+chipSelDirect=0
+chipType=0
+exFlash=0
+cs=PB5
+clk=PB6
+si=PB7
+so=PB8

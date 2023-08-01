@@ -6,4 +6,6 @@
     <project name="mat_home" path="pakages/mat_home" />
     <project name="KTool" path="pakages/KTool" />
     <project revision="space_audio_left_right_pair" name="CkAlgWorkspace" path="pakages/CkAlgWorkspace" />
+    <project name="sltk" path="pakages/sltk" />
+    <project name="tools" path="pakages/tools" />
 </manifest>
