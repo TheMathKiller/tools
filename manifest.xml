@@ -8,4 +8,5 @@
     <project revision="space_audio_left_right_pair" name="CkAlgWorkspace" path="pakages/CkAlgWorkspace" />
     <project name="sltk" path="pakages/sltk" />
     <project name="tools" path="pakages/tools" />
+    <project name="sinco" path="pakages/sinco" />
 </manifest>
