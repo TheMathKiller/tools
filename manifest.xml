@@ -9,4 +9,5 @@
     <project name="sltk" path="pakages/sltk" />
     <project name="tools" path="pakages/tools" />
     <project name="sinco" path="pakages/sinco" />
+    <project name="training" path="pakages/training" />
 </manifest>
